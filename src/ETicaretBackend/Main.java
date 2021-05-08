@@ -33,14 +33,14 @@ public class Main {
 		user3.setEposta("abc@gmail.com");
 		user3.setPass("2345432");
 
-		User user4 = new User(); // Kýsa parola "Derin", "Deniz", "derindeniz@gmail.com", "test"
+		User user4 = new User(); // Kisa parola
 		user4.setId(4);
 		user4.setFirstName("Deniz");
 		user4.setLastName("Cicek");
 		user4.setEposta("chartugba61@gmail.com");
 		user4.setPass("test");
 
-		User user5 = new User();// aynı bilgiler ile
+		User user5 = new User();// ayni bilgiler ile
 		user5.setId(5);
 		user5.setFirstName("Tugba");
 		user5.setLastName("Aktas");
